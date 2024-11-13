@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NuAegis</string>
+    <string name="about_app">NuAegis makes it easy to explore how companies are performing and what people are saying about them. Just pick a year, quarter, and company to see a quick summary of key points from earnings calls and other important updates. You’ll get both positive and negative highlights, giving you a balanced view at a glance. Plus, our chatbot is ready to answer any questions you have, so you can dive deeper into the details whenever you want.</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
